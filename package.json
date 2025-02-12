@@ -7,7 +7,7 @@
     "start": "lite-server --baseDir=\"public\""
   },
   "keywords": [],
-  "author": "",
+  "author": "Rochelle Marquez",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.6.1"
